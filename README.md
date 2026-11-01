@@ -1,3 +1,12 @@
+> [!NOTE]
+> **Deprecated — not maintained.**
+> My site now lives at **<https://abdullahalsaidi16.github.io>**
+> (source: [abdullahalsaidi16/abdullahalsaidi16.github.io](https://github.com/abdullahalsaidi16/abdullahalsaidi16.github.io)).
+>
+> This repo was a DatoCMS + Gatsby starter and is kept only for history. The notes below are the original template's.
+
+---
+
 # Gatsby Portfolio Website
 
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
